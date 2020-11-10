@@ -12,6 +12,12 @@ Image and video extraction from 9 gag.
   curl https://bootstrap.pypa.io/get-pip.py > get_pip.py
   set path=%PATH%;C:\Users\Admin\AppData\Local\Programs\Python\Python37\Scripts
   ```
+  
+## Dependencies
+- [requests](https://pypi.org/project/requests/)
+- [bs4-BeautifulSoup](https://pypi.org/project/BeautifulSoup/)
+- [urllib.request](https://docs.python.org/3/library/urllib.request.html)  
+  
 ## Setup:
 ### Install virtualenv
 ```
