@@ -25,7 +25,7 @@ py -m venv env
 pip install -r requirements.txt
 ```
 
-## Run the invoice extraction module
+## Run the image extraction module
 ```
 python folder_name/9_gag_scraper.py
 ```
