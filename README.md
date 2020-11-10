@@ -1,4 +1,4 @@
-![GitHub Logo](9_gag_scraper/blob/main/9gag.png)
+![GitHub Logo](main/9gag.png)
 
 # Image-Extraction
 
